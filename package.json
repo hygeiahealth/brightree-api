@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.hygeiahealth.com:gbk/brightree-api.git"
+    "url": "git@github.com:hygeiahealth/brightree-api.git"
   },
   "author": "Rob Bullock",
   "license": "ISC",
